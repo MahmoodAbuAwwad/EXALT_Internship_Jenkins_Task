@@ -1,0 +1,25 @@
+version: '3'
+services:
+  jenkins:
+    container_name: jenkins
+    image: jenkins/jenkins:2.190.2 
+    ports:
+      - "7070:8080"
+    volumes:
+      - "$PWD/jenkins_home/:/var/jenkins_home"
+    networks:
+      - net
+    user: root 
+  
+  remote_host:
+    container_name: slave_host
+    image: remote_host 
+    #this image name from docker file
+    #build docerfile -- inside context --> centos7 directory
+    build:
+     context: centos7
+    networks:
+      - net
+
+networks:
+  net:

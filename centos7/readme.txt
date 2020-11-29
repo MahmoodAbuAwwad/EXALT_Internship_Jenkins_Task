@@ -14,4 +14,4 @@ and the other we need to create another tiny vm with our docker image from our d
 it will create 2 root-key in same dir public/private
 
 3- write docker file
-dockerfile contains some imporntant comments
+dockerfile have some imporntant comments

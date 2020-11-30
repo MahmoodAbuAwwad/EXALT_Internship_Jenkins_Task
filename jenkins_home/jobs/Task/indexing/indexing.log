@@ -1,21 +1,22 @@
-Started
-[Mon Nov 30 10:01:57 UTC 2020] Starting branch indexing...
-[8mha:////4OoJ8GvFxzNf3okFKs1qk8jbAdhmLKIUrjXuhsWJywtrAAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHSZxCzuKACXFdpajgAAAA==[0mConnecting to https://api.github.com with no credentials, anonymous access
-[8mha:////4AX/nlS0ImBoK9LEYWUngi7Mo9Okgi30ooHn80yA17r7AAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHSZxCxebgBz0+wQjgAAAA==[0mJenkins-Imposed API Limiter: Current quota for Github API usage has 58 remaining (5 under budget). Next quota of 60 in 59 min
+Started by user [8mha:////4E+ibVlSqBA88O7nOtoSfWE9nVCZz0/qeOP3Ch0jmWppAAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzBEgZu/dLi1CL9xJTczDwAo1uC48AAAAA=[0mMahmood Abu Awwad
+[Mon Nov 30 10:08:55 UTC 2020] Starting branch indexing...
+[8mha:////4D7oHi5ezpqprVxVQGDHodO2vgJDbkg0JoPEVmHt+rxfAAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHSZxILcSQBy8z7VjgAAAA==[0mConnecting to https://api.github.com with no credentials, anonymous access
+[8mha:////4GyDZ/+LhFJYDiNOkhRUj2XRP+d5aoPwe5gUJmmfX3WpAAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHSZxIKiDQAIvATNjgAAAA==[0mJenkins-Imposed API Limiter: Current quota for Github API usage has 51 remaining (2 under budget). Next quota of 60 in 52 min
 Examining [8mha:////4M72CdXIWJBwmaMtc546CZ6opoSuXXU8FBqC3URuKDxgAAAAuB+LCAAAAAAAAP9djDEOgjAUhp8YPYCjcXejmwOGgbiIQRfdTZGGVspr0z5Er+E1dPEQHsc7iGHzW/5v+b/nB0bewUw2hTcYngx6o0W4vlnhtMJqZ0gs4scrvtt3AEEKYy2wJJnBsHGaYJKd+YUzzbFke3IKy+XVwfQvt+r3F4OeQQBwtZ3MCSJJZH3EWKlINnn3qtmWy9qYIsmbpG15wVIk4dBLZY8bgZVCfzxwX30BymvNV78AAAA=[0mMahmoodAbuAwwad/Internship_Jenkins_Task
 
   Checking branches...
-[8mha:////4Nzp7T8aJU4Bdbka3wlhJFsWEpjds+kglm6VnQFMB9rUAAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHSZxCw+WQDhNRXPjgAAAA==[0mJenkins-Imposed API Limiter: Current quota for Github API usage has 57 remaining (4 under budget). Next quota of 60 in 59 min
+[8mha:////4GKaCk0mouACJ0m0kOgEgC+/2hZxj/icDeIqzEtKov/BAAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHSZxILiGQCzJarhjgAAAA==[0mJenkins-Imposed API Limiter: Current quota for Github API usage has 51 remaining (2 under budget). Next quota of 60 in 52 min
 
   Getting remote branches...
 
     Checking branch [8mha:////4IHoGfnm1FsvScQclPDQTgY8Ad2C9uCv0Qs8gfFyY5rsAAAAwB+LCAAAAAAAAP9djLENwjAURD9BZABKxAy4owCliJAQIKCBPnKIZZs435b9A2EN1oCGIRiHHQhKxzV30tO95wcGwcNY1UWwODlZDNaIyermhDcay70lMU0er+Tu3hFEa4iNQElqC/3aG4Lh9swvnBmOkh3Ia5TzxsPoT7fo+ieDLr0IoHHtiAmWisiFGWNSk6rz9lWxHVeVtUWa1+n1ygu2RhIeg9Iu2wgsNYbsyEPJyAvBKh5a+gUdUhoKywAAAA==[0mmaster
-[8mha:////4BlFyE8tM/phB1UNOndP35phxjwTdn14lB9nDpEv59dmAAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHSZxCz+HQDHU7JwjgAAAA==[0mJenkins-Imposed API Limiter: Current quota for Github API usage has 57 remaining (4 under budget). Next quota of 60 in 59 min
+[8mha:////4JbZV1hlcMtUnWhzHUCM/aHKSo9ReofWhL065ufY+gTBAAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHSZxIJSGQAMxSVdjgAAAA==[0mJenkins-Imposed API Limiter: Current quota for Github API usage has 51 remaining (2 under budget). Next quota of 60 in 52 min
 
   Getting remote pull requests...
-      ‘Jenkinsfile’ not found
-    Does not meet criteria
-[8mha:////4MPn/5w889Z6IDn+YlxGJa15Dg6dMzpU4/VQv+eTRjHlAAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHSZxCyhVACykbx3jgAAAA==[0mJenkins-Imposed API Limiter: Current quota for Github API usage has 55 remaining (2 under budget). Next quota of 60 in 59 min
+      ‘Jenkinsfile’ found
+    Met criteria
+Scheduled build for branch: master
+[8mha:////4DaJ+UKawUKhHpWclEKlgj46kV4DFIPdS8Fv/HVXiAsmAAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHSZxIIKKQB0HugBjgAAAA==[0mJenkins-Imposed API Limiter: Current quota for Github API usage has 50 remaining (1 under budget). Next quota of 60 in 52 min
 
   1 branches were processed
 
@@ -25,5 +26,5 @@ Examining [8mha:////4M72CdXIWJBwmaMtc546CZ6opoSuXXU8FBqC3URuKDxgAAAAuB+LCAAAAAA
 
 Finished examining MahmoodAbuAwwad/Internship_Jenkins_Task
 
-[Mon Nov 30 10:01:59 UTC 2020] Finished branch indexing. Indexing took 1.9 sec
+[Mon Nov 30 10:08:58 UTC 2020] Finished branch indexing. Indexing took 2.8 sec
 Finished: SUCCESS

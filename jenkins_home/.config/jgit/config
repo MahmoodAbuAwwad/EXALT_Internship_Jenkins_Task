@@ -1,0 +1,3 @@
+[filesystem "96edd6d8d0d3|Oracle Corporation|1.8.0_232|/dev/mapper/centos-root"]
+	timestampResolution = 1001 microseconds
+	minRacyThreshold = 0 nanoseconds

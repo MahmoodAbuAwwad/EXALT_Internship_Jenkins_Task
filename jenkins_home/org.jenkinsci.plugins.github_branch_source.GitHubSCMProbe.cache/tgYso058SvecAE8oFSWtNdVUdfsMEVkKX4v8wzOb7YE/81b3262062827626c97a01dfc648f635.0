@@ -8,7 +8,7 @@ HTTP/1.1 200 OK
 content-type: application/json; charset=utf-8
 content-length: 2
 Accept-Ranges: bytes
-date: Mon, 30 Nov 2020 07:20:41 GMT
+date: Mon, 30 Nov 2020 07:23:48 GMT
 server: GitHub.com
 status: 200 OK
 cache-control: public, max-age=60, s-maxage=60
@@ -24,12 +24,12 @@ x-xss-protection: 1; mode=block
 referrer-policy: origin-when-cross-origin, strict-origin-when-cross-origin
 content-security-policy: default-src 'none'
 X-Ratelimit-Limit: 60
-X-Ratelimit-Remaining: 44
-X-Ratelimit-Reset: 1606723276
-X-Ratelimit-Used: 16
-X-GitHub-Request-Id: 0540:76C7:D812F07:F9132D9:5FC49D48
-OkHttp-Sent-Millis: 1606731641975
-OkHttp-Received-Millis: 1606731642295
+X-Ratelimit-Remaining: 39
+X-Ratelimit-Reset: 1606723275
+X-Ratelimit-Used: 21
+X-GitHub-Request-Id: 05C3:5D48:6FF5D9C:810E9F5:5FC49E04
+OkHttp-Sent-Millis: 1606731829514
+OkHttp-Received-Millis: 1606731829730
 
 TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256
 2

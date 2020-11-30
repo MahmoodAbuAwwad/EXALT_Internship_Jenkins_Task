@@ -8,6 +8,10 @@
       <string>Task/master</string>
       <ranges>5,11-14</ranges>
     </entry>
+    <entry>
+      <string>Task_JenkinsFile</string>
+      <ranges>1-2,4-5</ranges>
+    </entry>
   </usages>
   <facets/>
 </fingerprint>

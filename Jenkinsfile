@@ -29,6 +29,7 @@ pipeline{
       steps{
         echo "===== Deploying on Slave Machine ====="
         sh "ls"
+	sh "pwd"
       }
     }
   }

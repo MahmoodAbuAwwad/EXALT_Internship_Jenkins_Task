@@ -1,20 +1,17 @@
-https://api.github.com/repos/MahmoodAbuAwwad/Internship_Jenkins_Task
+https://api.github.com/repos/MahmoodAbuAwwad/Internship_Jenkins_Task/contents/Jenkinsfile?ref=923f3c46daecba33968b3bef002f8b2c055b8418
 GET
 1
 Accept-Encoding: gzip
 HTTP/1.1 200 OK
 27
+date: Mon, 30 Nov 2020 07:40:49 GMT
 content-type: application/json; charset=utf-8
-content-encoding: gzip
-Accept-Ranges: bytes
-Transfer-Encoding: chunked
-date: Mon, 30 Nov 2020 07:40:48 GMT
 server: GitHub.com
 status: 200 OK
 cache-control: public, max-age=60, s-maxage=60
 vary: Accept, Accept-Encoding, Accept, X-Requested-With, Accept-Encoding
-etag: W/"b0959eae726fe375b5b4a50d11c310b90ded5b7aa6f6cd5bae1e8e7ffab48e8d"
-last-modified: Mon, 30 Nov 2020 07:37:44 GMT
+etag: W/"335dfc40a8cb8d87e7d54dd10b7b506e5381e3b7"
+last-modified: Mon, 30 Nov 2020 10:37:32 GMT
 x-github-media-type: github.v3; format=json
 access-control-expose-headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Used, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type, Deprecation, Sunset
 access-control-allow-origin: *
@@ -24,13 +21,16 @@ x-content-type-options: nosniff
 x-xss-protection: 1; mode=block
 referrer-policy: origin-when-cross-origin, strict-origin-when-cross-origin
 content-security-policy: default-src 'none'
+content-encoding: gzip
 X-Ratelimit-Limit: 60
 X-Ratelimit-Remaining: 26
 X-Ratelimit-Reset: 1606723276
 X-Ratelimit-Used: 34
-X-GitHub-Request-Id: 06C1:84A5:74658D8:85D47FF:5FC4A200
-OkHttp-Sent-Millis: 1606732849916
-OkHttp-Received-Millis: 1606732849992
+Accept-Ranges: bytes
+Content-Length: 808
+X-GitHub-Request-Id: 06C1:84A5:74658EC:85D4821:5FC4A201
+OkHttp-Sent-Millis: 1606732849994
+OkHttp-Received-Millis: 1606732850265
 
 TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256
 2

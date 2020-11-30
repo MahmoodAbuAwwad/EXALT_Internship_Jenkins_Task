@@ -1,0 +1,13 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2020-11-30 10:32:37.883 UTC</timestamp>
+  <md5sum>c4d39f40d238e7d818513b44fae2036a</md5sum>
+  <fileName>Credential id=github name=mahmoodabuawwad/******</fileName>
+  <usages>
+    <entry>
+      <string>Task/master</string>
+      <ranges>5</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>

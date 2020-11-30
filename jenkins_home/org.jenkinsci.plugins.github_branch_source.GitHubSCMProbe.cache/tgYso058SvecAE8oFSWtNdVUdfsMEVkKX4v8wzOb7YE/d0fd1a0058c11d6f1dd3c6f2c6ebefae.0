@@ -1,20 +1,18 @@
-https://api.github.com/repos/MahmoodAbuAwwad/Internship_Jenkins_Task/pulls?state=open
+https://api.github.com/repos/MahmoodAbuAwwad/Internship_Jenkins_Task/contents/Jenkinsfile?ref=f278fbf00da6bf84841ae19cafb4d208e1e1f896
 GET
-2
-Accept: application/vnd.github.shadow-cat-preview+json
+1
 Accept-Encoding: gzip
 HTTP/1.1 200 OK
-25
+27
+date: Mon, 30 Nov 2020 07:32:34 GMT
 content-type: application/json; charset=utf-8
-content-length: 2
-Accept-Ranges: bytes
-date: Mon, 30 Nov 2020 07:30:03 GMT
 server: GitHub.com
 status: 200 OK
 cache-control: public, max-age=60, s-maxage=60
 vary: Accept, Accept-Encoding, Accept, X-Requested-With, Accept-Encoding
-etag: "e398edc03c3c7c3b8bd4975f538a8e40aa45c32efabbead0988bfbe915f3b130"
-x-github-media-type: github.v3; param=shadow-cat-preview; format=json
+etag: W/"221e29679fc63ad56355c98db96719c39dfc1eee"
+last-modified: Mon, 30 Nov 2020 10:29:36 GMT
+x-github-media-type: github.v3; format=json
 access-control-expose-headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Used, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type, Deprecation, Sunset
 access-control-allow-origin: *
 strict-transport-security: max-age=31536000; includeSubdomains; preload
@@ -23,13 +21,16 @@ x-content-type-options: nosniff
 x-xss-protection: 1; mode=block
 referrer-policy: origin-when-cross-origin, strict-origin-when-cross-origin
 content-security-policy: default-src 'none'
+content-encoding: gzip
 X-Ratelimit-Limit: 60
-X-Ratelimit-Remaining: 34
-X-Ratelimit-Reset: 1606723275
-X-Ratelimit-Used: 26
-X-GitHub-Request-Id: 0640:32E5:C98BAAE:E87DA72:5FC49F7A
-OkHttp-Sent-Millis: 1606732203586
-OkHttp-Received-Millis: 1606732204098
+X-Ratelimit-Remaining: 31
+X-Ratelimit-Reset: 1606723276
+X-Ratelimit-Used: 29
+Accept-Ranges: bytes
+Content-Length: 673
+X-GitHub-Request-Id: 0641:DCD2:6B22E9A:7BC7E2D:5FC4A012
+OkHttp-Sent-Millis: 1606732355059
+OkHttp-Received-Millis: 1606732355336
 
 TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256
 2

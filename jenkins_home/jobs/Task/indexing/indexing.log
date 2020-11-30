@@ -1,31 +1,25 @@
 Started by user [8mha:////4E+ibVlSqBA88O7nOtoSfWE9nVCZz0/qeOP3Ch0jmWppAAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzBEgZu/dLi1CL9xJTczDwAo1uC48AAAAA=[0mMahmood Abu Awwad
-[Mon Nov 30 10:23:48 UTC 2020] Starting branch indexing...
-[8mha:////4DIGhLbPO08iwMuWcZFIgsDuB52MmFYos1u1uYmZrtqtAAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHSZxDruKADbWLh5jgAAAA==[0mConnecting to https://api.github.com with no credentials, anonymous access
-[8mha:////4NZmy4lNdPdl3jVVdWR1Dzrq53koqTn34wqzBd+yvbcmAAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHSZxDq+tQAhyxYnjgAAAA==[0mJenkins-Imposed API Limiter: Current quota for Github API usage has 41 remaining (2 under budget). Next quota of 60 in 37 min
+[Mon Nov 30 10:30:01 UTC 2020] Starting branch indexing...
+[8mha:////4P8zOEd+TiOfLymd34E2UjTAS5XV8NtKoStkwxpY51AEAAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHSZxOY9awE4NxvljgAAAA==[0mConnecting to https://api.github.com with no credentials, anonymous access
+[8mha:////4N00MOjdbtVpLxxKs4gStQM1KfaWgKI6cRgGZsxgy5sPAAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHSZxOZDnwGzH3TYjgAAAA==[0mJenkins-Imposed API Limiter: Current quota for Github API usage has 36 remaining (1 under budget). Next quota of 60 in 31 min
 Examining [8mha:////4M72CdXIWJBwmaMtc546CZ6opoSuXXU8FBqC3URuKDxgAAAAuB+LCAAAAAAAAP9djDEOgjAUhp8YPYCjcXejmwOGgbiIQRfdTZGGVspr0z5Er+E1dPEQHsc7iGHzW/5v+b/nB0bewUw2hTcYngx6o0W4vlnhtMJqZ0gs4scrvtt3AEEKYy2wJJnBsHGaYJKd+YUzzbFke3IKy+XVwfQvt+r3F4OeQQBwtZ3MCSJJZH3EWKlINnn3qtmWy9qYIsmbpG15wVIk4dBLZY8bgZVCfzxwX30BymvNV78AAAA=[0mMahmoodAbuAwwad/Internship_Jenkins_Task
 
   Checking branches...
-[8mha:////4PRsIRA2tooLHn7Z+V7Bsos2577wsEDGIlG6etuGvqSQAAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHSZxDr+GADqOLf0jgAAAA==[0mJenkins-Imposed API Limiter: Current quota for Github API usage has 40 remaining (1 under budget). Next quota of 60 in 37 min
+[8mha:////4GwVrdY7dEjCiwrYIL2K/UP3R3LwIRDyA4h+qZHwuRiFAAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHSZxOYjrAAc7/DajgAAAA==[0mJenkins-Imposed API Limiter: Current quota for Github API usage has 35 remaining (0 under budget). Next quota of 60 in 31 min
 
   Getting remote branches...
 
     Checking branch [8mha:////4IHoGfnm1FsvScQclPDQTgY8Ad2C9uCv0Qs8gfFyY5rsAAAAwB+LCAAAAAAAAP9djLENwjAURD9BZABKxAy4owCliJAQIKCBPnKIZZs435b9A2EN1oCGIRiHHQhKxzV30tO95wcGwcNY1UWwODlZDNaIyermhDcay70lMU0er+Tu3hFEa4iNQElqC/3aG4Lh9swvnBmOkh3Ia5TzxsPoT7fo+ieDLr0IoHHtiAmWisiFGWNSk6rz9lWxHVeVtUWa1+n1ygu2RhIeg9Iu2wgsNYbsyEPJyAvBKh5a+gUdUhoKywAAAA==[0mmaster
-[8mha:////4Nmd1Eta6l6sxlQ/RZSkfgl9d93hbP/wbDEU4CSlhKE4AAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHSZxDqBVQBdYTNtjgAAAA==[0mJenkins-Imposed API Limiter: Current quota for Github API usage has 40 remaining (1 under budget). Next quota of 60 in 37 min
+[8mha:////4KI/ZEF9zj0xVzqGOdD2/88G8JaDgmPi+ukT8nd/hGsoAAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHSZxOajuwHWQDLvjgAAAA==[0mJenkins-Imposed API Limiter: Current quota for Github API usage has 35 remaining (0 under budget). Next quota of 60 in 31 min
 
   Getting remote pull requests...
       ‘Jenkinsfile’ found
     Met criteria
-Changes detected: master (e4b41a8ffb90b1a99821955d6cf0bb586ff8e826 → 50129bfaa84c0b0f331db1916047e2e2a3ce93d0)
+Changes detected: master (50129bfaa84c0b0f331db1916047e2e2a3ce93d0 → f278fbf00da6bf84841ae19cafb4d208e1e1f896)
 Scheduled build for branch: master
-[8mha:////4HCrL+c1vttGg9K9f+xTfLby+s6PWU2MH6q02Og1fgpgAAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHSZxDqhJwBIb2HOjgAAAA==[0mJenkins-Imposed API Limiter: Current quota for Github API usage has 39 remaining (0 under budget). Next quota of 60 in 37 min
-
-  1 branches were processed
-
-  Checking pull-requests...
-
-  0 pull requests were processed
-
-Finished examining MahmoodAbuAwwad/Internship_Jenkins_Task
-
-[Mon Nov 30 10:23:50 UTC 2020] Finished branch indexing. Indexing took 2 sec
-Finished: SUCCESS
+[8mha:////4Op+JCPwbhEVbXJzeIuwVNV5kEW1q7WGVjVgFk49X7b9AAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHSZxOaTfwF/6zjcjgAAAA==[0mJenkins-Imposed API Limiter: Current quota for Github API usage has 34 remaining (1 over budget). Next quota of 60 in 31 min. Sleeping for 4 min 17 sec.
+[8mha:////4M5nQYnDNNVP7B9Py0z+yibtCwtech0GNJRZRg6oP088AAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHSZxOaT/wDFujFFjgAAAA==[0mJenkins is attempting to evenly distribute GitHub API requests. To configure a different rate limiting strategy, such as having Jenkins restrict GitHub API requests only when near or above the GitHub rate limit, go to "GitHub API usage" under "Configure System" in the Jenkins settings.
+[8mha:////4J7TD6II3KoyrEd+jNpC+o7NX44ZYPPegjJ0LfFvWKPRAAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHSZxLZOeQDF5Y5kjgAAAA==[0mJenkins-Imposed API Limiter: The Github API usage quota may have been refreshed earlier than expected, rechecking...
+[8mha:////4KKuuVaVFF2jEd24j+ilIGlCBYRthDbAjoY2Uuo1MNTgAAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHSZxLYuKwBBYqcEjgAAAA==[0mJenkins-Imposed API Limiter: Current quota for Github API usage has 31 remaining (2 over budget). Next quota of 60 in 28 min. Sleeping for 5 min 55 sec.
+[8mha:////4OXoOtNvRX286i06s3MtzOrnTODe4zPDt5mquqmTXOh5AAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHSZxLYuawDXUqBzjgAAAA==[0mJenkins is attempting to evenly distribute GitHub API requests. To configure a different rate limiting strategy, such as having Jenkins restrict GitHub API requests only when near or above the GitHub rate limit, go to "GitHub API usage" under "Configure System" in the Jenkins settings.
+[8mha:////4FQbL/eKqw1qof061VbAD6sgSsE9C+FQawDB/UH+V484AAAAhB+LCAAAAAAAAP9b85aBtbiIwSa/KF0vKzUvOzOvODlTryCnNB3I0kvPLMkoTYpPKkrMS86IL84vLUpO1XPPLPEoTXLOzyvOz0n1yy9JZYAARiYGRi8GzpLM3NTiksTcgooiBqmM0pTi/Dy9ZIhiPayaGCoKgHSZxE7PaAA/8JnVjgAAAA==[0mJenkins-Imposed API Limiter: Still sleeping, now only 2 min 55 sec remaining.

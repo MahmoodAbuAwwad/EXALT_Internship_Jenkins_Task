@@ -4,14 +4,14 @@ GET
 Accept-Encoding: gzip
 HTTP/1.1 200 OK
 27
-date: Mon, 30 Nov 2020 07:08:57 GMT
+date: Mon, 30 Nov 2020 07:20:41 GMT
 content-type: application/json; charset=utf-8
 server: GitHub.com
 status: 200 OK
 cache-control: public, max-age=60, s-maxage=60
 vary: Accept, Accept-Encoding, Accept, X-Requested-With, Accept-Encoding
-etag: W/"d2626418df58ac8f9860388f7526d5580c605547"
-last-modified: Mon, 30 Nov 2020 07:07:47 GMT
+etag: W/"faf02b4ca554f647e9697f67da14675f07a71517"
+last-modified: Mon, 30 Nov 2020 07:20:24 GMT
 x-github-media-type: github.v3; format=json
 access-control-expose-headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Used, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type, Deprecation, Sunset
 access-control-allow-origin: *
@@ -23,14 +23,14 @@ referrer-policy: origin-when-cross-origin, strict-origin-when-cross-origin
 content-security-policy: default-src 'none'
 content-encoding: gzip
 X-Ratelimit-Limit: 60
-X-Ratelimit-Remaining: 50
-X-Ratelimit-Reset: 1606723276
-X-Ratelimit-Used: 10
+X-Ratelimit-Remaining: 44
+X-Ratelimit-Reset: 1606723275
+X-Ratelimit-Used: 16
 Accept-Ranges: bytes
-Content-Length: 761
-X-GitHub-Request-Id: 04C0:102EC:D5C17BA:F6C4890:5FC49A89
-OkHttp-Sent-Millis: 1606730938011
-OkHttp-Received-Millis: 1606730938280
+Content-Length: 762
+X-GitHub-Request-Id: 0540:76C7:D812F86:F913372:5FC49D49
+OkHttp-Sent-Millis: 1606731642299
+OkHttp-Received-Millis: 1606731642653
 
 TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256
 2

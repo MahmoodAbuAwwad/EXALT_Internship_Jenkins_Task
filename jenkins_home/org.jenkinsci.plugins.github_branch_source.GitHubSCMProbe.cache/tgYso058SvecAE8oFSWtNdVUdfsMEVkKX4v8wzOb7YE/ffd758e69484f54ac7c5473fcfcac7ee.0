@@ -4,8 +4,11 @@ GET
 Accept-Encoding: gzip
 HTTP/1.1 200 OK
 27
-date: Mon, 30 Nov 2020 07:09:03 GMT
 content-type: application/json; charset=utf-8
+content-encoding: gzip
+Accept-Ranges: bytes
+Content-Length: 520
+date: Mon, 30 Nov 2020 07:20:48 GMT
 server: GitHub.com
 status: 200 OK
 cache-control: public, max-age=60, s-maxage=60
@@ -21,16 +24,13 @@ x-content-type-options: nosniff
 x-xss-protection: 1; mode=block
 referrer-policy: origin-when-cross-origin, strict-origin-when-cross-origin
 content-security-policy: default-src 'none'
-content-encoding: gzip
 X-Ratelimit-Limit: 60
-X-Ratelimit-Remaining: 48
-X-Ratelimit-Reset: 1606723276
-X-Ratelimit-Used: 12
-Accept-Ranges: bytes
-Content-Length: 520
-X-GitHub-Request-Id: 04C0:102EC:D5C2452:F6C56D8:5FC49A8F
-OkHttp-Sent-Millis: 1606730944262
-OkHttp-Received-Millis: 1606730944452
+X-Ratelimit-Remaining: 42
+X-Ratelimit-Reset: 1606723275
+X-Ratelimit-Used: 18
+X-GitHub-Request-Id: 0540:76C7:D813B8B:F91417A:5FC49D50
+OkHttp-Sent-Millis: 1606731649329
+OkHttp-Received-Millis: 1606731649661
 
 TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256
 2

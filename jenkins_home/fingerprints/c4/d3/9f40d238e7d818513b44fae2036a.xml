@@ -6,7 +6,7 @@
   <usages>
     <entry>
       <string>Task/master</string>
-      <ranges>5,11</ranges>
+      <ranges>5,11-12</ranges>
     </entry>
   </usages>
   <facets/>

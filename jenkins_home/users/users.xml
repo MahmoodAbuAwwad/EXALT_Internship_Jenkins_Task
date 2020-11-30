@@ -3,6 +3,10 @@
   <version>1</version>
   <idToDirectoryNameMap class="concurrent-hash-map">
     <entry>
+      <string>second_user</string>
+      <string>seconduser_3548725197531563420</string>
+    </entry>
+    <entry>
       <string>admin</string>
       <string>admin_4481836886898209133</string>
     </entry>

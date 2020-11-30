@@ -17,8 +17,12 @@ pipeline{
       }
     }
     stage("DeployOnSlaveMachine"){
+      agent {
+        label 'slave'
+      }
       steps{
         echo "===== Deploying on Slave Machine ====="
+        sh "ls"
       }
     }
   }

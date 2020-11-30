@@ -1,6 +1,11 @@
 def workDir = "/home/remote_user/workspace/Task_JenkinsFile"
 pipeline{
   agent any
+  parameters {
+      //slave and slave2 are 2 containers with CentosImage connected with jenkins container via ssh
+      //configured and added via jenkins gui
+      choice(name: 'vm', choices: ['slave', 'slave2'], description: 'Pick VM to deploy on')
+    }
   stages{
     stage("clean up"){
       steps{
@@ -29,7 +34,7 @@ pipeline{
     }
     stage("DeployOnSlaveMachine"){
       agent {
-        label 'slave'
+        label "${params.vm}"
       }
       steps{
         echo "===== Deploying on Slave Machine ====="
@@ -44,7 +49,7 @@ pipeline{
             per = Double.valueOf(memUsage)
             if (per > 80) {
                 stage ('FailAndAlert') {
-                    error("Build failed, no Memory Available")
+                sh 'echo Fail and Alert'
                 }
             }
             if ( per < 80) {
@@ -57,3 +62,4 @@ pipeline{
     }
   }
 }
+

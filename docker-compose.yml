@@ -20,6 +20,16 @@ services:
      context: centos7
     networks:
       - net
+  remote_host2:
+    container_name: slave_host1
+    image: remote_host
+    #this image name from docker file
+    #build docerfile -- inside context --> centos7 directory
+    build:
+     context: centos7
+    networks:
+      - net
+
 
 networks:
   net:

@@ -5,17 +5,37 @@
     <org.jenkinsci.plugins.pipeline.modeldefinition.actions.DeclarativeJobPropertyTrackerAction plugin="pipeline-model-definition@1.7.2">
       <jobProperties/>
       <triggers/>
-      <parameters/>
+      <parameters>
+        <string>vm</string>
+      </parameters>
       <options/>
     </org.jenkinsci.plugins.pipeline.modeldefinition.actions.DeclarativeJobPropertyTrackerAction>
   </actions>
   <description></description>
   <keepDependencies>false</keepDependencies>
-  <properties/>
+  <properties>
+    <hudson.model.ParametersDefinitionProperty>
+      <parameterDefinitions>
+        <hudson.model.ChoiceParameterDefinition>
+          <name>vm</name>
+          <description>Pick VM to deploy on</description>
+          <choices>
+            <string>slave</string>
+            <string>slave2</string>
+          </choices>
+        </hudson.model.ChoiceParameterDefinition>
+      </parameterDefinitions>
+    </hudson.model.ParametersDefinitionProperty>
+  </properties>
   <definition class="org.jenkinsci.plugins.workflow.cps.CpsFlowDefinition" plugin="workflow-cps@2.86">
     <script>def workDir = &quot;/home/remote_user/workspace/Task_JenkinsFile&quot;
 pipeline{
   agent any
+  parameters {
+      //slave and slave2 are 2 containers with CentosImage connected with jenkins container via ssh
+      //configured and added via jenkins gui
+      choice(name: &apos;vm&apos;, choices: [&apos;slave&apos;, &apos;slave2&apos;], description: &apos;Pick VM to deploy on&apos;)
+    }
   stages{
     stage(&quot;clean up&quot;){
       steps{
@@ -44,7 +64,7 @@ pipeline{
     }
     stage(&quot;DeployOnSlaveMachine&quot;){
       agent {
-        label &apos;slave&apos;
+        label &quot;${params.vm}&quot;
       }
       steps{
         echo &quot;===== Deploying on Slave Machine =====&quot;

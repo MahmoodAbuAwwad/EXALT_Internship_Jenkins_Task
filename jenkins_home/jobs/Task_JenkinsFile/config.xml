@@ -13,7 +13,8 @@
   <keepDependencies>false</keepDependencies>
   <properties/>
   <definition class="org.jenkinsci.plugins.workflow.cps.CpsFlowDefinition" plugin="workflow-cps@2.86">
-    <script>pipeline{
+    <script>def workDir = &quot;/home/remote_user/workspace/Task_JenkinsFile&quot;
+pipeline{
   agent any
   stages{
     stage(&quot;clean up&quot;){
@@ -32,9 +33,13 @@
     stage(&quot;CreatingScript&quot;){
       steps{
         echo &quot;===== Creating Build_number.tar.gz =====&quot;
-        sh &quot;chmod +x build_number.sh&quot;
         sh &quot;tar -cvf ${currentBuild.number}.tar.gz build_number.sh&quot;
-        sh &quot;ls&quot;
+      }
+    }
+    stage(&quot;Dilever&quot;){
+      steps{
+        echo &quot;-============&quot;
+        stash name: &quot;tarFile&quot;,allowEmpty: true, includes: &quot;${currentBuild.number}.tar.gz&quot;
       }
     }
     stage(&quot;DeployOnSlaveMachine&quot;){
@@ -43,7 +48,26 @@
       }
       steps{
         echo &quot;===== Deploying on Slave Machine =====&quot;
-        sh &quot;ls&quot;
+        sh &quot;rm -f *.tar.gz&quot;
+        unstash &apos;tarFile&apos;
+        sh &quot;tar -xvf ${currentBuild.number}.tar.gz&quot;
+        sh &quot;chmod +x build_number.sh&quot;
+        echo &quot;---- Printing HostName and MemUsgae% ---&quot;
+        sh &quot;./build_number.sh&quot;
+        script{
+            memUsage=sh(script: &apos;./build_number.sh |tail -1&apos;,returnStdout: true).trim()
+            per = Double.valueOf(memUsage)
+            if (per &gt; 80) {
+                stage (&apos;FailAndAlert&apos;) {
+                sh &apos;echo Fail and Alert&apos;
+                }
+            }
+            if ( per &lt; 80) {
+                stage (&apos;SuccessAndPushToNexus&apos;) {
+                    sh &apos;echo Push To NExus&apos;
+                }
+            }
+        }
       }
     }
   }

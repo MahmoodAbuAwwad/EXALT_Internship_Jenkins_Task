@@ -3,7 +3,11 @@
   <approvedScriptHashes>
     <string>017d0db438428731cd600b6ebda805065433520f</string>
   </approvedScriptHashes>
-  <approvedSignatures/>
+  <approvedSignatures>
+    <string>staticMethod java.lang.Double parseDouble java.lang.String</string>
+    <string>staticMethod java.lang.Double valueOf java.lang.String</string>
+    <string>staticMethod java.lang.Float parseFloat java.lang.String</string>
+  </approvedSignatures>
   <aclApprovedSignatures/>
   <approvedClasspathEntries/>
   <pendingScripts/>

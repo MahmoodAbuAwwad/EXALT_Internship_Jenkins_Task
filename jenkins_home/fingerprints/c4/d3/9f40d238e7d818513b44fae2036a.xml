@@ -10,7 +10,7 @@
     </entry>
     <entry>
       <string>Task_JenkinsFile</string>
-      <ranges>1-2,4-5</ranges>
+      <ranges>1-2,4-26,30,32-48</ranges>
     </entry>
   </usages>
   <facets/>

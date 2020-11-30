@@ -1,0 +1,34 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<Tag plugin="workflow-support@3.6">
+  <node class="cps.n.StepAtomNode" plugin="workflow-cps@2.86">
+    <parentIds>
+      <string>26</string>
+    </parentIds>
+    <id>27</id>
+    <descriptorId>org.jenkinsci.plugins.workflow.support.steps.stash.StashStep</descriptorId>
+  </node>
+  <actions>
+    <cps.a.ArgumentsActionImpl plugin="workflow-cps@2.86">
+      <arguments>
+        <entry>
+          <string>name</string>
+          <string>tarFile</string>
+        </entry>
+        <entry>
+          <string>allowEmpty</string>
+          <boolean>true</boolean>
+        </entry>
+        <entry>
+          <string>includes</string>
+          <string>33.tar.gz</string>
+        </entry>
+      </arguments>
+      <sensitiveVariables/>
+      <isUnmodifiedBySanitization>true</isUnmodifiedBySanitization>
+    </cps.a.ArgumentsActionImpl>
+    <wf.a.TimingAction plugin="workflow-api@2.40">
+      <startTime>1606743628839</startTime>
+    </wf.a.TimingAction>
+    <s.a.LogStorageAction/>
+  </actions>
+</Tag>

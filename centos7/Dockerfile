@@ -20,5 +20,14 @@ RUN chown remote_user:remote_user -R /home/remote_user/.ssh/ && \
 #generating some keys for ssh
 RUN /usr/sbin/sshd-keygen
 
+
+############# installing Java ##############
+RUN yum install -y openjdk-8-jdk ant
+ENV JAVA_HOME /usr/lib/jvm/java-8-openjdk-amd64/
+RUN export JAVA_HOME
+
+
+
+
 #start service
 CMD /usr/sbin/sshd -D

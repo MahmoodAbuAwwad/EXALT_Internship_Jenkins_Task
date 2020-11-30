@@ -1,6 +1,12 @@
 pipeline{
   agent any
   stages{
+    stage("clean up"){
+      steps{
+        echo "====== Cleaning Up. ======"
+        sh "rm -rf *"
+      }
+    }
     stage("checkout"){
       steps{
         echo "====== Checkout Github Repo. ======"

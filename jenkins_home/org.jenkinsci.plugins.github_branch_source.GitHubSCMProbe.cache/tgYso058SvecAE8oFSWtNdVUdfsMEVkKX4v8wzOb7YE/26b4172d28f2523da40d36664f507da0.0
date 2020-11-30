@@ -13,16 +13,16 @@ X-Content-Type-Options: nosniff
 X-Frame-Options: deny
 X-Github-Media-Type: github.v3; format=json
 X-Ratelimit-Limit: 60
-X-Ratelimit-Remaining: 18
-X-Ratelimit-Reset: 1606723275
-X-Ratelimit-Used: 42
+X-Ratelimit-Remaining: 60
+X-Ratelimit-Reset: 1606730994
+X-Ratelimit-Used: 0
 X-Xss-Protection: 1; mode=block
-Date: Mon, 30 Nov 2020 07:56:42 GMT
-Content-Length: 356
+Date: Mon, 30 Nov 2020 09:09:54 GMT
+Content-Length: 354
 Accept-Ranges: bytes
-X-GitHub-Request-Id: 0842:76C7:D90560E:FA2AE86:5FC4A5B5
-OkHttp-Sent-Millis: 1606733803696
-OkHttp-Received-Millis: 1606733803829
+X-GitHub-Request-Id: 1D40:DCD2:6CB2C3F:7D9699A:5FC4B6E2
+OkHttp-Sent-Millis: 1606738195271
+OkHttp-Received-Millis: 1606738195383
 
 TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256
 2

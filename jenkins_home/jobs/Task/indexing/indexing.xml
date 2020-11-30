@@ -13,14 +13,14 @@
     </hudson.model.CauseAction>
   </actions>
   <result>
-    <name>SUCCESS</name>
-    <ordinal>0</ordinal>
-    <color>BLUE</color>
-    <completeBuild>true</completeBuild>
+    <name>ABORTED</name>
+    <ordinal>4</ordinal>
+    <color>ABORTED</color>
+    <completeBuild>false</completeBuild>
   </result>
   <durations>
-    <long>539957</long>
+    <long>227226</long>
   </durations>
-  <timestamp>1606732201128</timestamp>
-  <duration>539957</duration>
+  <timestamp>1606732977392</timestamp>
+  <duration>227226</duration>
 </jenkins.branch.MultiBranchProject_-BranchIndexing>
